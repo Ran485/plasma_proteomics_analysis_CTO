@@ -12,7 +12,7 @@ Data analysis was performed using Mac platform in Python (version 3.8.6) and R (
 
 The files are organised into five folders:
 
-- ***data***: which contains all the plasma proteomics and clinical patient information required to perform the analyses described in the study. The Supplementary Tables are accompanied in the Manuscript.
+- ***data***: which contains all the plasma proteomics data and clinical patient information required to perform the analyses described in the study. The corresponding files are incorporated in the **Supplementary Tables** of Manuscript.
 - ***R***: which contains R scripts for reproducing all analyses and generating the figures presented in the manuscript.
 - ***python***: which contains the code mainly used for data preprocessing and models construction, and also including a few figures generation. 
 - ***shell***: which contains the shell scripts for library searching.
